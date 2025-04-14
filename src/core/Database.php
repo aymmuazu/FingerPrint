@@ -14,9 +14,9 @@ date_default_timezone_set("Africa/Lagos");
 
 class Database {
     private const host = "localhost";
-    private const user = "root";
-    private const password = "";
-    private const database = "fingerprint";
+    private const user = "fing_ajango";
+    private const password = ".Abd37736578+";
+    private const database = "fing_ajango";
     private $connection;
 
     function __construct(){
